@@ -1,3 +1,5 @@
 	# Contributors
 - [Mangal Kushwah](https://github.com/Link2324)
-- [Ayush Baghel]
+
+- [Simran parmar]
+2D portal
